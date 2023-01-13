@@ -61,7 +61,7 @@ A content delivery network, or content distribution network (CDN), is a geograph
 React was developed for applications (Facebook) that have constantly changing data. Since React is a front-end framework or the “View” in MVC, this means that as the user clicks around and changes the app's data, the view should “react” or change with those user events.
 	 
 ### What is crossorigin in script tag?
-[crossorigin](https://www.w3schools.com/tags/att_script_crossorigin.asp#:~:text=The%20crossorigin%20attribute%20sets%20the,or%20scripts)%20from%20another%20domain).
+[crossorigin](https://www.w3schools.com/tags/att_script_crossorigin.asp#:~:text=The%20crossorigin%20attribute%20sets%20the,or%20scripts)%20from%20another%20domain)
 ***	
 ### What is difference between React and ReactDom.
 [Medium](https://medium.com/programming-sage/react-vs-react-dom-a0ed3aea9745)
