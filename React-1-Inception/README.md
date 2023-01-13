@@ -84,3 +84,4 @@ This is what the team had to say when they were splitting these two libraries.
 development.js are only meant for development, and are not suitable for production. Minified and optimized production versions of React are react.production.js.
 ***	 
 ### What is async and defer?
+[Async and Defer in Deatail](https://www.josefzacek.cz/blog/whats-the-difference-between-async-vs-defer-attributes/)
