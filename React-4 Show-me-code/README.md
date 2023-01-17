@@ -83,8 +83,8 @@ No, You can use pure javaScript code but ES6 provides more features and function
 - `key` is the only attribute that can be passed to `Fragment`
 
 ### What is config driven UI?
-It is a contract between UI and Fronted. and UI is designed such a way that it chnages according to data produced by the backed.
-- See if you need show product or services location wise So you can't redesign web site for different city. In order to achive dynamic UI the config driven UI concept is used.  
+It is a contract between UI-Fronted and backend and UI is designed such a way that it chnages according to data produced by the backend.
+- See if you need show product or services, location wise So you can't redesign web site for different city. In order to achive dynamic UI the config driven UI concept is used.  
 
 ### What is React Fiber?
 React fiber is a ongoing reimplementation of React's core algorithm. To make react more efficient and Fast.
