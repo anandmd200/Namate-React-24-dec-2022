@@ -67,7 +67,7 @@ import * as Obj from './components/componentName'
 
 ### what is importance of config.js file?
 
-It's good convention/practice to have `config or constant` file in the app. It containts all the hardCoded things or constant things which will be going to use in the muliple componets so that if any changes occurs in future then you need to make changes only one place.
+It's good convention/practice to have `config or constant` file in the app. It containts all the hardCoded things or constant things which will be going to use in the muliple componets so that if any changes occurs in future then you need to make changes only one place. Like, Image CDN, API, etc
 
 ### What is react Hooks? 
 At the end of the day Hooks are the normal function.We can create our own Hooks.it is written by FB dev and it provides some cool features like `useState`;
